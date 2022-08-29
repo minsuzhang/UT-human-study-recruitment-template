@@ -1,2 +1,2 @@
-# Human-study-recruitment-template
+# human-study-recruitment-template
 A Latex, TikzPoster theme for recruiting human research study subjects
